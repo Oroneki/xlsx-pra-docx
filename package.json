@@ -1,0 +1,16 @@
+{
+  "name": "xls_pra_doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx": "^5.2.2",
+    "dotenv": "^8.2.0",
+    "exceljs": "^4.1.1"
+  }
+}
