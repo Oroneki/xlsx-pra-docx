@@ -125,3 +125,7 @@ async function principal() {
 
 // rodar a função principal...
 principal()
+
+// ***************************
+// pra rodar: 'npm run vai'
+// ***************************
